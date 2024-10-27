@@ -38,7 +38,7 @@
     "botkit": "^4.15.0",
     "debug": "^4.1.0",
     "url": "^0.11.0",
-    "webex": "^1.80.148"
+    "webex": "^3.5.0"
   },
   "devDependencies": {
     "eslint": "^8.3.0",
