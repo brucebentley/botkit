@@ -9,7 +9,7 @@
   "author": "benbrown@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "botbuilder": "^4.15.0",
+    "botbuilder": "^4.23.1",
     "botbuilder-ai": "^4.15.0",
     "botbuilder-dialogs": "^4.15.0",
     "botbuilder-adapter-facebook": "^1.0.0",
